@@ -17,14 +17,16 @@ Start the development server with the following command:
 npm start
 This will open the application in your browser at http://localhost:3000.
 
-Usage
+## Usage
 When the application is loaded, you will see a canvas element and a "Download" button.
 The canvas is initially empty. You can draw on the canvas by clicking and dragging the mouse cursor.
 To download the pixel color data of the canvas, click the "Download" button.
 The browser will prompt you to save a file named canvas_data.txt containing the pixel color data in hex format.
-Technologies Used
+
+## Technologies Used
 React
 HTML5 Canvas
-Here is a link to see the output file - https://drive.google.com/drive/folders/1nLDtwz3BmoXHlvOojURouDEXWMIjDKB-?usp=sharing
+
+## Here is a link to see the output file - https://drive.google.com/drive/folders/1nLDtwz3BmoXHlvOojURouDEXWMIjDKB-?usp=sharing
 
 
